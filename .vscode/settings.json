@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql_multi_bahasa",
+            "group": "belajar_mysql_multi_bahasa",
+            "database": "belajar_mysql_multi_bahasa",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
